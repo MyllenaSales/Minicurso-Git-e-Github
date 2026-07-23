@@ -1,5 +1,15 @@
 const arquivos = [
-    "myllena.json"
+    "myllena.json",
+    "Nalbert.json",
+    "Matheus.json",
+    "mariaClara.json",
+    "Manoel.json",
+    "Magalhaes.json",
+    "GabrielHenrique.json",
+    "EllenLira.json",
+    "Caroline.json",
+    "AntonyRyan.json",
+    "Alexandre.json"
 ];
 
 const container = document.querySelector("#container");
